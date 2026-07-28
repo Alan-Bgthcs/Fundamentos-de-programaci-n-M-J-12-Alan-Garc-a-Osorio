@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\1.Variables constantes\1.Variables constantes\bin\Debug\1.Variables constantes.exe.config
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\1.Variables constantes\1.Variables constantes\bin\Debug\1.Variables constantes.exe
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\1.Variables constantes\1.Variables constantes\bin\Debug\1.Variables constantes.pdb
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\1.Variables constantes\1.Variables constantes\obj\Debug\1.Variables constantes.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\1.Variables constantes\1.Variables constantes\obj\Debug\1.Variables constantes.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\1.Variables constantes\1.Variables constantes\obj\Debug\1.Variables constantes.exe
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\1.Variables constantes\1.Variables constantes\obj\Debug\1.Variables constantes.pdb
