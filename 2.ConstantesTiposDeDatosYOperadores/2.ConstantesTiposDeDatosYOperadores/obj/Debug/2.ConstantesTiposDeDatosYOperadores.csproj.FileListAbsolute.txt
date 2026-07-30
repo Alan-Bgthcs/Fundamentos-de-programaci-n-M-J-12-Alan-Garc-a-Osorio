@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\2.ConstantesTiposDeDatosYOperadores\2.ConstantesTiposDeDatosYOperadores\bin\Debug\2.ConstantesTiposDeDatosYOperadores.exe.config
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\2.ConstantesTiposDeDatosYOperadores\2.ConstantesTiposDeDatosYOperadores\bin\Debug\2.ConstantesTiposDeDatosYOperadores.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\2.ConstantesTiposDeDatosYOperadores\2.ConstantesTiposDeDatosYOperadores\bin\Debug\2.ConstantesTiposDeDatosYOperadores.pdb
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\2.ConstantesTiposDeDatosYOperadores\2.ConstantesTiposDeDatosYOperadores\obj\Debug\2.ConstantesTiposDeDatosYOperadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\2.ConstantesTiposDeDatosYOperadores\2.ConstantesTiposDeDatosYOperadores\obj\Debug\2.ConstantesTiposDeDatosYOperadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\2.ConstantesTiposDeDatosYOperadores\2.ConstantesTiposDeDatosYOperadores\obj\Debug\2.ConstantesTiposDeDatosYOperadores.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\2.ConstantesTiposDeDatosYOperadores\2.ConstantesTiposDeDatosYOperadores\obj\Debug\2.ConstantesTiposDeDatosYOperadores.pdb
