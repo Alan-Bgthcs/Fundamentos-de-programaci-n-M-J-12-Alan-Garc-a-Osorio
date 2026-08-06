@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\bin\Debug\4.CondicionalesSimpleDoble.exe.config
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\bin\Debug\4.CondicionalesSimpleDoble.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\bin\Debug\4.CondicionalesSimpleDoble.pdb
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\obj\Debug\4.CondicionalesSimpleDoble.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\obj\Debug\4.CondicionalesSimpleDoble.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\obj\Debug\4.CondicionalesSimpleDoble.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\4.CondicionalesSimpleDoble\4.CondicionalesSimpleDoble\obj\Debug\4.CondicionalesSimpleDoble.pdb
