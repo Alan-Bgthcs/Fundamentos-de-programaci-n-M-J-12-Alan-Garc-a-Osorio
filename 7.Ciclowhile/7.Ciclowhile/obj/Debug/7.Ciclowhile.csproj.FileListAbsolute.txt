@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\7.Ciclowhile\7.Ciclowhile\obj\Debug\7.Ciclowhile.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\7.Ciclowhile\7.Ciclowhile\obj\Debug\7.Ciclowhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\7.Ciclowhile\7.Ciclowhile\bin\Debug\7.Ciclowhile.exe.config
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\7.Ciclowhile\7.Ciclowhile\bin\Debug\7.Ciclowhile.exe
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\7.Ciclowhile\7.Ciclowhile\bin\Debug\7.Ciclowhile.pdb
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\7.Ciclowhile\7.Ciclowhile\obj\Debug\7.Ciclowhile.exe
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\7.Ciclowhile\7.Ciclowhile\obj\Debug\7.Ciclowhile.pdb
