@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\9.WhileEjercicios\9.WhileEjercicios\bin\Debug\9.WhileEjercicios.exe.config
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\9.WhileEjercicios\9.WhileEjercicios\bin\Debug\9.WhileEjercicios.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\9.WhileEjercicios\9.WhileEjercicios\bin\Debug\9.WhileEjercicios.pdb
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\9.WhileEjercicios\9.WhileEjercicios\obj\Debug\9.WhileEjercicios.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\9.WhileEjercicios\9.WhileEjercicios\obj\Debug\9.WhileEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\9.WhileEjercicios\9.WhileEjercicios\obj\Debug\9.WhileEjercicios.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\9.WhileEjercicios\9.WhileEjercicios\obj\Debug\9.WhileEjercicios.pdb
