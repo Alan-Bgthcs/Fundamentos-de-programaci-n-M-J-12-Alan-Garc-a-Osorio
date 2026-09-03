@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\12.OtroEjercicioDoWhile\12.OtroEjercicioDoWhile\bin\Debug\12.OtroEjercicioDoWhile.exe.config
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\12.OtroEjercicioDoWhile\12.OtroEjercicioDoWhile\bin\Debug\12.OtroEjercicioDoWhile.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\12.OtroEjercicioDoWhile\12.OtroEjercicioDoWhile\bin\Debug\12.OtroEjercicioDoWhile.pdb
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\12.OtroEjercicioDoWhile\12.OtroEjercicioDoWhile\obj\Debug\12.OtroEjercicioDoWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\12.OtroEjercicioDoWhile\12.OtroEjercicioDoWhile\obj\Debug\12.OtroEjercicioDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\12.OtroEjercicioDoWhile\12.OtroEjercicioDoWhile\obj\Debug\12.OtroEjercicioDoWhile.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\12.OtroEjercicioDoWhile\12.OtroEjercicioDoWhile\obj\Debug\12.OtroEjercicioDoWhile.pdb
