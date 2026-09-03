@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\13.CiclosFor\13.CiclosFor\bin\Debug\13.CiclosFor.exe.config
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\13.CiclosFor\13.CiclosFor\bin\Debug\13.CiclosFor.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\13.CiclosFor\13.CiclosFor\bin\Debug\13.CiclosFor.pdb
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\13.CiclosFor\13.CiclosFor\obj\Debug\13.CiclosFor.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\13.CiclosFor\13.CiclosFor\obj\Debug\13.CiclosFor.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\13.CiclosFor\13.CiclosFor\obj\Debug\13.CiclosFor.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\13.CiclosFor\13.CiclosFor\obj\Debug\13.CiclosFor.pdb
