@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\14.EjercicioCicloFor\14.EjercicioCicloFor\bin\Debug\14.EjercicioCicloFor.exe.config
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\14.EjercicioCicloFor\14.EjercicioCicloFor\bin\Debug\14.EjercicioCicloFor.exe
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\14.EjercicioCicloFor\14.EjercicioCicloFor\bin\Debug\14.EjercicioCicloFor.pdb
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\14.EjercicioCicloFor\14.EjercicioCicloFor\obj\Debug\14.EjercicioCicloFor.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\14.EjercicioCicloFor\14.EjercicioCicloFor\obj\Debug\14.EjercicioCicloFor.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\14.EjercicioCicloFor\14.EjercicioCicloFor\obj\Debug\14.EjercicioCicloFor.exe
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\14.EjercicioCicloFor\14.EjercicioCicloFor\obj\Debug\14.EjercicioCicloFor.pdb
