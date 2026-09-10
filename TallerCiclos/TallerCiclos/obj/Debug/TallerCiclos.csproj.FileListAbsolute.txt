@@ -1,7 +1,7 @@
-C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.exe.config
-C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.exe
-C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.pdb
-C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.csproj.AssemblyReference.cache
-C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.csproj.CoreCompileInputs.cache
-C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.exe
-C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.pdb
+C:\Users\LOQ\Desktop\Repositorio\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.exe.config
+C:\Users\LOQ\Desktop\Repositorio\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.exe
+C:\Users\LOQ\Desktop\Repositorio\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.pdb
+C:\Users\LOQ\Desktop\Repositorio\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.csproj.AssemblyReference.cache
+C:\Users\LOQ\Desktop\Repositorio\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Repositorio\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.exe
+C:\Users\LOQ\Desktop\Repositorio\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{240B2164-85BB-46DE-A215-A2F018AA9BC4}</ProjectGuid>
+    <ProjectGuid>{235F0485-EBE6-4DD2-8FE4-88A4A1846B33}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>TallerCiclos</RootNamespace>
     <AssemblyName>TallerCiclos</AssemblyName>
