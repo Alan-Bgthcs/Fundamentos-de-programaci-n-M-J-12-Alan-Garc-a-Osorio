@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\15.Arreglosunidimensionales\15.Arreglosunidimensionales\bin\Debug\15.Arreglosunidimensionales.exe.config
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\15.Arreglosunidimensionales\15.Arreglosunidimensionales\bin\Debug\15.Arreglosunidimensionales.exe
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\15.Arreglosunidimensionales\15.Arreglosunidimensionales\bin\Debug\15.Arreglosunidimensionales.pdb
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\15.Arreglosunidimensionales\15.Arreglosunidimensionales\obj\Debug\15.Arreglosunidimensionales.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\15.Arreglosunidimensionales\15.Arreglosunidimensionales\obj\Debug\15.Arreglosunidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\15.Arreglosunidimensionales\15.Arreglosunidimensionales\obj\Debug\15.Arreglosunidimensionales.exe
+C:\Users\B09S304est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\15.Arreglosunidimensionales\15.Arreglosunidimensionales\obj\Debug\15.Arreglosunidimensionales.pdb
