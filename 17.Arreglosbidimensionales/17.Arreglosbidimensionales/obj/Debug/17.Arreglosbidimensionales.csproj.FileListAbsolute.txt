@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\17.Arreglosbidimensionales\17.Arreglosbidimensionales\bin\Debug\17.Arreglosbidimensionales.exe.config
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\17.Arreglosbidimensionales\17.Arreglosbidimensionales\bin\Debug\17.Arreglosbidimensionales.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\17.Arreglosbidimensionales\17.Arreglosbidimensionales\bin\Debug\17.Arreglosbidimensionales.pdb
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\17.Arreglosbidimensionales\17.Arreglosbidimensionales\obj\Debug\17.Arreglosbidimensionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\17.Arreglosbidimensionales\17.Arreglosbidimensionales\obj\Debug\17.Arreglosbidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\17.Arreglosbidimensionales\17.Arreglosbidimensionales\obj\Debug\17.Arreglosbidimensionales.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\17.Arreglosbidimensionales\17.Arreglosbidimensionales\obj\Debug\17.Arreglosbidimensionales.pdb
